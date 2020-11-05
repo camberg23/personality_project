@@ -1,4 +1,4 @@
-Welcome! To try out any of our ML pipelines, download both the .py and the .csv file that share aname and edit the code (as needed) such that the column you are 
+Welcome! To try out any of our ML pipelines, download both the .py and the .csv file that share name, and edit the code (as needed) such that the column you are 
 attempting to assess corresponds with the appropriate column in the csv. Be sure to vary the random seed as much as you'd like to get a feel for the range of
 outcomes, keeping in mind the the CV score commented into the code signifies the average value that the particular pipeline was able to achieve on the dataset.
 
