@@ -1,4 +1,4 @@
-Welcome! To try out any of our AutoML TPOT pipelines, download both the .py and the .csv file that share a name, and edit the code (as needed) such that the column you are 
+Welcome! To try out any of our AutoML TPOT pipelines, download both the .py and the .csv file that share a name (though the py file may also be followed by an irrelevant number, e.g., "extentpc3"). Edit the code (as needed) such that the column you are 
 attempting to assess corresponds with the appropriate column in the csv. Recommendation: vary the random seed frequently to get a feel for the range of
 outcomes, keeping in mind the the CV score commented into the code signifies the average value that the particular pipeline was able to achieve on the dataset.
 
